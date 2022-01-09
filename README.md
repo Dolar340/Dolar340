@@ -8,3 +8,6 @@
 Dolar340/Dolar340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Saya pemula tolong bantu bimbingan nya untuk para senior🙏
+
+I'm a beginner, please help with guidance for seniors🙏
